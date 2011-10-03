@@ -1,0 +1,9 @@
+pkcs12 - PKCS#12 scanning library
+Copyright (C) 2006  Hiroshi Nakamura  <nahi@ruby-lang.org>
+
+I created this for understanding PKCS#12/PFX file structure.
+It's far from 'experimental'.
+
+This program is copyrighted free software by Hiroshi Nakamura.  You can
+redistribute it and/or modify it under the same terms of Ruby's license;
+either the dual license version in 2003, or any later version.
